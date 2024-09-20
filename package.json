@@ -1,0 +1,19 @@
+{
+  "name": "js_usenodepackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyapatis24/js_useNodePackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyapatis24/js_useNodePackage/issues"
+  },
+  "homepage": "https://github.com/ilyapatis24/js_useNodePackage#readme",
+  "description": ""
+}
